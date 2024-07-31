@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	
+	<title>FUTEBOL</title>
+	<style type="text/css">
+		#ftb{
+			display: flex;
+			justify-content: center;
+		}
+
+	</style>
+</head>
+<body>
+	<h2 align="center">FUTEBOL OLÍMPICO</h2>
+	<div id="ftb">
+		<img src="https://s2-ge.glbimg.com/7Oa-hz7GdIMYtodg-ix54yllv8E=/0x0:3891x2189/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2021/1/H/2hvuyaTWABJCmRcWFSWQ/2021-08-07t142855z-624882652-rc2e0p9y7vvp-rtrmadp-3-olympics-2020-fbl-m-team11-fnl-000100.jpg">
+	</div>
+	
+	<p align="justify">Os torneios de futebol nos Jogos Olímpicos de Verão de 2024 estão sendo realizados entre 24 de julho e 10 de agosto de 2024 em sete estádios pela França. Além da cidade-sede olímpica de Paris, as partidas também estão sendo disputadas em Bordeaux, Décines-Charpieu, Marselha, Nantes, Nice e Saint-Étienne. As equipes masculinas são restritas a jogadores com menos de 23 anos (nascidos em ou após 1º de janeiro de 2001), com um máximo de três jogadores sem limite de idade permitidos, enquanto não há restrições de idade nas equipes femininas. O Brasil é atual o bicampeão masculino, mas não se classificou para o torneio, enquanto o Canadá é o atual campeão feminino</p>
+	<p>O futebol foi o segundo esporte coletivo a entrar oficialmente nos Jogos Olímpicos, atrás apenas do polo aquático, em 1908. A competição é oficialmente chamada pela Federação Internacional de Futebol de Torneio Olímpico de Futebol.</p>
+
+	<p>A partir de 1996, o futebol feminino também passou a ser disputado, com dominância dos Estados Unidos da América, que esteve presente em todas as finais até 2012 e só não levou o ouro em 2000, perdendo para a Noruega. Na edição de 2016, pela primeira vez, as norte-americanas não disputaram medalhas. Elas foram superadas pela Suécia nas quartas de final, na disputa de penalidades. Com a seleção americana eliminada, e a Noruega fora do torneio, a Alemanha se sagrou a terceira campeã do torneio. Desde que o torneio feminino foi incluído no programa olímpico, nunca houve uma dobradinha - ou seja, o mesmo país conquistar a medalha de ouro tanto no masculino quanto no feminino. O país que chegou mais perto foi a Alemanha, que em 2016 conquistou o ouro no feminino e a prata no masculino.</p>
+
+</body>
+</html>
